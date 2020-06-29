@@ -1,3 +1,6 @@
 # Codechef-Cats-and-Dogs
-Problem
+### Problem
 ![](capture.png)
+### Manual Simulation
+![](vis.png)
+![](vis2.png)
